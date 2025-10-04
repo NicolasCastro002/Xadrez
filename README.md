@@ -1,4 +1,4 @@
-# ♟️ Desafio - Movimentando as Peças do Xadrez
+#  Desafio - Movimentando as Peças do Xadrez
 
 Trabalho da disciplina **Introdução à Programação de Computadores** – Curso de **Análise e Desenvolvimento de Sistemas (Estácio)**.
 
@@ -6,7 +6,7 @@ O objetivo deste projeto é implementar em Python a lógica de movimentação da
 
 ---
 
-## 📌 Peças Implementadas
+# Peças Implementadas
 Cada peça foi representada por uma classe em Python, herdando da classe base `Peca`.  
 As regras implementadas foram:
 
@@ -19,5 +19,5 @@ As regras implementadas foram:
 
 ---
 
-## 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
